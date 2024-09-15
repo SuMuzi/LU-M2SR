@@ -36,5 +36,5 @@ python test.py
 ```
 ## Results
 <p align="center">
-  <img width="900" src="results/results.png">
+  <img width="900" src="https://github.com/SuMuzi/LU-M2SR/results/results.png">
 </p>
