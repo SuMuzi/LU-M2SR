@@ -38,3 +38,4 @@ python test.py
 <p align="center">
   <img width="900" src="https://github.com/SuMuzi/LU-M2SR/results/results.png">
 </p>
+![results](https://github.com/SuMuzi/LU-M2SR/results/results.png)
