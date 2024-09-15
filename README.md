@@ -35,3 +35,6 @@ Used testing sets can be downloaded as follows:
 python test.py
 ```
 ## Results
+<p align="center">
+  <img width="900" src="results/results.png">
+</p>
